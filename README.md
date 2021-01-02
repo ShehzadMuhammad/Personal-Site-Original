@@ -1,1 +1,1 @@
-This project was creacted React I believe it was the first one I created after graduating from University, I tried to be a bit creative and went with the concept of each page being a card that would come roll up to the screen when each nav item was clicekd on.
+This project was creacted in ReactJS, I tried to be a bit creative and went with the concept of each page being a card that would come roll up to the screen when each nav item was clicekd on.

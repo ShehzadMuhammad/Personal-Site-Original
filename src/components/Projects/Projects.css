@@ -1,0 +1,27 @@
+.mypage {
+	text-align:left;
+	padding-top: 30px;
+}
+
+.Heading {
+	padding-top: 15px;
+	font-size: 30px;
+}
+
+.SubHeading{
+	font-family: 'Roboto';font-size: 35px;
+}
+
+.Content{
+	padding-top: 5px;
+	font-family: 'Roboto';font-size: 15px;
+	align:center;
+}
+
+.Weather {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 500px;
+}
